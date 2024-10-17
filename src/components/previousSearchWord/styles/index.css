@@ -1,0 +1,24 @@
+.previous-searched-word-cont {
+  height: 310px;
+  margin: 20px;
+  padding: 10px;
+  display: flex;
+  gap: 12px;
+  flex-direction: column;
+  align-items: center;
+  width: 30%;
+  background-color: #174bdd;
+  color: whitesmoke;
+  overflow: hidden;
+  border-radius: 5px;
+}
+.recent-words {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 18px;
+  gap: 4px;
+}
+.recent-word {
+  cursor: pointer;
+}

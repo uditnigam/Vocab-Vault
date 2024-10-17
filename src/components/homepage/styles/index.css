@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Sanchez", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.homepage {
+  width: 100vw;
+  position: relative;
+}
+.word-search {
+  height: 210px;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  flex-direction: column;
+  background-color: #174bdd;
+}
+
+.quote {
+  height: 50px;
+  display: flex;
+  align-items: center;
+  font-size: 25px;
+  color: whitesmoke;
+  padding-top: 40px;
+}
+.random-word {
+  height: 70px;
+  font-size: 15px;
+  cursor: pointer;
+  color: whitesmoke;
+}
+.main-board {
+  width: 100%;
+  display: flex;
+}

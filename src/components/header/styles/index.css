@@ -1,0 +1,13 @@
+.heading-name {
+  height: 5vh;
+  display: flex;
+  align-items: center;
+  top: 0;
+  position: sticky;
+  font-size: 30px;
+  padding: 15px;
+  color: rgb(21, 21, 27);
+  background-color: #174bdd;
+  color: whitesmoke;
+  z-index: 2;
+}
