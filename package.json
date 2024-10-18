@@ -1,7 +1,7 @@
 {
   "name": "vocab-vault",
   "version": "0.1.0",
-  "homepage": "https://uditnigam.github.io/vocab-vault",
+  "homepage": "https://uditnigam.github.io/Vocab-Vault",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.13.3",
