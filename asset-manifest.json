@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Vocab-Vault/static/css/main.1312563a.css",
+    "main.js": "/Vocab-Vault/static/js/main.9f5a60be.js",
+    "index.html": "/Vocab-Vault/index.html",
+    "main.1312563a.css.map": "/Vocab-Vault/static/css/main.1312563a.css.map",
+    "main.9f5a60be.js.map": "/Vocab-Vault/static/js/main.9f5a60be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1312563a.css",
+    "static/js/main.9f5a60be.js"
+  ]
+}
